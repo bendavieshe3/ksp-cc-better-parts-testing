@@ -19,9 +19,9 @@ If you would like to help out or suggest changes please use the [Contract Config
 
 ## References
 
-[Github repository][5] - source code, releases and feature requests / bugs
-[Contract Configurator release thread][3]
-[Contract Configurator development thread][4]
++ [Github repository][5] - source code, releases and feature requests / bugs
++ [Contract Configurator release thread][3]
++ [Contract Configurator development thread][4]
 
 ## Tentative Contract Plans
 

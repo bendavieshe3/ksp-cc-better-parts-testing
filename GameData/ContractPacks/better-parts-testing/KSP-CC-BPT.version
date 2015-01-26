@@ -1,0 +1,31 @@
+{
+	"NAME":"KSP-CC-Better-Parts-Testing",
+	"URL":"https://raw.githubusercontent.com/bendavieshe3/ksp-cc-better-parts-testing/master/GameData/ContractPacks/better-parts-testing/KSP-CC-BPT.version",
+	"DOWNLOAD":"https://github.com/bendavieshe3/ksp-cc-better-parts-testing/releases",
+	"GITHUB":{
+		"USERNAME":"bendavieshe3",
+		"REPOSITORY":"ksp-cc-better-parts-testing",
+		"ALLOW_PRE_RELEASE":false
+	},
+	"VERSION":{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":{
+		"MAJOR":0,
+		"MINOR":90,
+		"PATCH":0
+	},
+	"KSP_VERSION_MIN":{
+		"MAJOR":0,
+		"MINOR":90,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":{
+		"MAJOR":0,
+		"MINOR":90,
+		"PATCH":0
+	}
+} 
